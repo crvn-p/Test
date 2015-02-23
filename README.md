@@ -3,4 +3,4 @@
 
 Github upテスト
 
-(http://git-scm.com/downloads/guis)
+http://git-scm.com/downloads/guis
